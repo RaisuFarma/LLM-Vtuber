@@ -9,5 +9,6 @@ def main():
     engine.load("src/LLM-Vtuber/views/Main.qml")
     sys.exit(app.exec())
 
+
 if __name__ == "__main__":
     main()
